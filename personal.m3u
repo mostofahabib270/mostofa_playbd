@@ -33,8 +33,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-name="AL JAZEERA" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547257167.png" group-title="BANGLADESH 🇧🇩",AL JAZEERA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="BANGLADESH 🇧🇩",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN NEWS" tvg-logo="http://tvassets.roarzone.info/images/cnn.png" group-title="BANGLADESH 🇧🇩",CNN NEWS
 https://edge2.roarzone.info:8444/roarzone/edge3/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/1920px-TRT_World_logosu.png" group-title="BANGLADESH 🇧🇩",TRT NEWS
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005960095.png" group-title="BANGLADESH 🇧🇩",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553745788.png" group-title="BANGLADESH 🇧🇩",ATN BANGLA
