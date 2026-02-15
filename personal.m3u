@@ -115,6 +115,8 @@ https://edge2.roarzone.info:8444/roarzone/edge3/zee-bangla/tracks-v1a1/mono.m3u8
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="DANGAL 2" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg" group-title="INDIA",DANGAL 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="DD NEWS" tvg-logo="https://i.postimg.cc/c4y3Vd73/dd.png" group-title="INDIA",DD NEWS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index_5.m3u8
 #EXTINF:-1 tvg-name="SPORT RANGE" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380606787.png" group-title="SPORTS",SPORT RANGE
 https://nomawnoijl.gpcdn.net/akash/sportrange/chunks.m3u8
 #EXTINF:-1 tvg-name="THUNDER" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380796250.png" group-title="SPORTS",THUNDER
@@ -165,6 +167,18 @@ https://edge2.roarzone.info:8444/roarzone/edge3/discovery-turbo/tracks-v1a1/mono
 https://edge2.roarzone.info:8444/roarzone/edge3/investigation-discovery-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SONY BBC EARTH" tvg-logo="http://tvassets.roarzone.info/images/44.png" group-title="DOCUMENTORY",SONY BBC EARTH
 https://edge2.roarzone.info:8444/roarzone/edge3/sony-bbc-earth-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="REUTERS" tvg-logo="https://www.editorandpublisher.com/uploads/original/20240723-181955-dae-Reuters%20cube.png.jpg" group-title="ENGLISH CHANNEL",REUTERS
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/6f18762f-d9d5-41b0-8ddc-1652c86b364e/3.m3u8?ads.xumo_channelId=99951197
+#EXTINF:-1 tvg-name="SKY NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPUYtJoW_VT9YdaHMk9lWuztJJCj4bCtCjg&s" group-title="ENGLISH CHANNEL",SKY NEWS
+https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
+#EXTINF:-1 tvg-name="SKY NEWS NOW" tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg" group-title="ENGLISH CHANNEL",SKY NEWS NOW
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="CNBC TV 18" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQGXbP9MEGQ2MA/company-logo_200_200/B4DZcIT5xiGgAI-/0/1748191125673/cnbc_tv18_logo?e=2147483647&v=beta&t=KFbzWG-tLyBsxJILxVo9cAiyFHaZP_BPhTVOCTH_AFc" group-title="ENGLISH CHANNEL",CNBC TV 18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=658800.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZCiWELnS_hJTOtsTrWDZKkhkmthiH2BfLA&s" group-title="ENGLISH CHANNEL",BLOOMBERG TELEVISION
+https://dcfcae89.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdUVl9ITFM/3f43f665-430e-4290-b718-a81e4f51f857/0.m3u8
+#EXTINF:-1 tvg-name="PEACE TV ENGLISH" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="ENGLISH CHANNEL",PEACE TV ENGLISH
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-name="ORIGINALS" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313129486.png" group-title="ENGLISH CHANNEL",ORIGINALS
 https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
 #EXTINF:-1 tvg-name="CINEEDGE HD" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347856897.png" group-title="ENGLISH CHANNEL",CINEEDGE HD
@@ -201,5 +215,3 @@ https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8
 https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
 #EXTINF:-1 tvg-name="SCREEM" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312104824.png" group-title="ENGLISH CHANNEL",SCREEM
 https://nomawnoijl.gpcdn.net/akash/screem/chunks.m3u8
-#EXTINF:-1 tvg-name="PEACE TV ENGLISH" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="ENGLISH CHANNEL",PEACE TV ENGLISH
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
