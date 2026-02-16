@@ -215,3 +215,191 @@ https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8
 https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
 #EXTINF:-1 tvg-name="SCREEM" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312104824.png" group-title="ENGLISH CHANNEL",SCREEM
 https://nomawnoijl.gpcdn.net/akash/screem/chunks.m3u8
+#EXTINF:-1 tvg-name="STAR PLUS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-plus.webp" group-title="EK TV",STAR PLUS
+http://103.175.73.12:8080/live/2/2_0.m3u8
+#EXTINF:-1 tvg-name="STAR PLUS (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-plus-hd.webp" group-title="EK TV",STAR PLUS (HD)
+http://103.175.73.12:8080/live/1/1_0.m3u8
+#EXTINF:-1 tvg-name="STAR BHARAT" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-bharat.webp" group-title="EK TV",STAR BHARAT
+http://103.175.73.12:8080/live/4/4_0.m3u8
+#EXTINF:-1 tvg-name="STAR BHARAT (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-bharat-hd.webp" group-title="EK TV",STAR BHARAT (HD)
+http://103.175.73.12:8080/live/3/3_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold.webp" group-title="EK TV",STAR GOLD
+http://103.175.73.12:8080/live/31/31_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-hd.webp" group-title="EK TV",STAR GOLD (HD)
+http://103.175.73.12:8080/live/30/30_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD SELECT" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-select.webp" group-title="EK TV",STAR GOLD SELECT
+http://103.175.73.12:8080/live/41/41_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD SELECT (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-select-hd.webp" group-title="EK TV",STAR GOLD SELECT (HD)
+http://103.175.73.12:8080/live/40/40_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD 2" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-2.webp" group-title="EK TV",STAR GOLD 2
+http://103.175.73.12:8080/live/34/34_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD ROMANCE" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-romance.webp" group-title="EK TV",STAR GOLD ROMANCE
+http://103.175.73.12:8080/live/35/35_0.m3u8
+#EXTINF:-1 tvg-name="STAR GOLD THRILLS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-thrills.webp" group-title="EK TV",STAR GOLD THRILLS
+http://103.175.73.12:8080/live/36/36_0.m3u8
+#EXTINF:-1 tvg-name="STAR UTSAV" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-utsav.webp" group-title="EK TV",STAR UTSAV
+http://103.175.73.12:8080/live/9/9_0.m3u8
+#EXTINF:-1 tvg-name="STAR UTSAV MOVIES-" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-utsav-movies.webp" group-title="EK TV",STAR UTSAV MOVIES-
+http://103.175.73.12:8080/live/42/42_0.m3u8
+#EXTINF:-1 tvg-name="SONY SAB" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-sab.webp" group-title="EK TV",SONY SAB
+http://103.175.73.12:8080/live/6/6_0.m3u8
+#EXTINF:-1 tvg-name="SONY SAB (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-sab-hd.webp" group-title="EK TV",SONY SAB (HD)
+http://103.175.73.12:8080/live/5/5_0.m3u8
+#EXTINF:-1 tvg-name="COLORS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors.webp" group-title="EK TV",COLORS
+http://103.175.73.12:8080/live/8/8_0.m3u8
+#EXTINF:-1 tvg-name="COLORS (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-hd.webp" group-title="EK TV",COLORS (HD)
+http://103.175.73.12:8080/live/7/7_0.m3u8
+#EXTINF:-1 tvg-name="SHOW BOX" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/showbox.webp" group-title="EK TV",SHOW BOX
+http://103.175.73.12:8080/live/10/10_0.m3u8
+#EXTINF:-1 tvg-name="SONY PAL" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-pal.webp" group-title="EK TV",SONY PAL
+http://103.175.73.12:8080/live/11/11_0.m3u8
+#EXTINF:-1 tvg-name="COLORS RISHTEY" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-rishtey.webp" group-title="EK TV",COLORS RISHTEY
+http://103.175.73.12:8080/live/12/12_0.m3u8
+#EXTINF:-1 tvg-name="BIG MAGIC" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/big-magic.webp" group-title="EK TV",BIG MAGIC
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-name="COLORS CINEPLEX SUPERHITS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-cineplex-superhits.webp" group-title="EK TV",COLORS CINEPLEX SUPERHITS
+http://103.175.73.12:8080/live/14/14_0.m3u8
+#EXTINF:-1 tvg-name="DD NATIONAL (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/dd-national-hd.webp" group-title="EK TV",DD NATIONAL (HD)
+http://103.175.73.12:8080/live/15/15_0.m3u8
+#EXTINF:-1 tvg-name="DANGAL" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/dangal.webp" group-title="EK TV",DANGAL
+http://103.175.73.12:8080/live/17/17_0.m3u8
+#EXTINF:-1 tvg-name="DANGAL 2" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/dangal-2.webp" group-title="EK TV",DANGAL 2
+http://103.175.73.12:8080/live/18/18_0.m3u8
+#EXTINF:-1 tvg-name="MANORANJAN GRAND" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/manoranjan-grand.webp" group-title="EK TV",MANORANJAN GRAND
+http://103.175.73.12:8080/live/19/19_0.m3u8
+#EXTINF:-1 tvg-name="ANJAN" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/anjan-tv.webp" group-title="EK TV",ANJAN
+http://103.175.73.12:8080/live/20/20_0.m3u8
+#EXTINF:-1 tvg-name="SHEMAROO JOSH" tvg-logo="https://shemarooent.com/assets/images/josh/shemaroo-josh-logo.png" group-title="EK TV",SHEMAROO JOSH
+http://103.175.73.12:8080/live/21/21_0.m3u8
+#EXTINF:-1 tvg-name="GANGAUR TELEVISION" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bd937840ac1f70ced2f1a3c936557623.png" group-title="EK TV",GANGAUR TELEVISION
+http://103.175.73.12:8080/live/22/22_0.m3u8
+#EXTINF:-1 tvg-name="MANORANJAN TV" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/manoranjan-tv.webp" group-title="EK TV",MANORANJAN TV
+http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-name="Q TV" group-title="EK TV",Q TV
+http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 tvg-name="COLORS INFINITY (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-infinity-hd.webp" group-title="EK TV",COLORS INFINITY (HD)
+http://103.175.73.12:8080/live/28/28_0.m3u8
+#EXTINF:-1 tvg-name="COLORS INFINITY" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-infinity.webp" group-title="EK TV",COLORS INFINITY
+http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 tvg-name="SONY MAX (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-max-hd.webp" group-title="EK TV",SONY MAX (HD)
+http://103.175.73.12:8080/live/32/32_0.m3u8
+#EXTINF:-1 tvg-name="SONY MAX" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-max.webp" group-title="EK TV",SONY MAX
+http://103.175.73.12:8080/live/33/33_0.m3u8
+#EXTINF:-1 tvg-name="COLORS CINEPLEX (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-cineplex-hd.webp" group-title="EK TV",COLORS CINEPLEX (HD)
+http://103.175.73.12:8080/live/37/37_0.m3u8
+#EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-wah.webp" group-title="EK TV",SONY WAH
+http://103.175.73.12:8080/live/38/38_0.m3u8
+#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-max-2.webp" group-title="EK TV",SONY MAX 2
+http://103.175.73.12:8080/live/39/39_0.m3u8
+#EXTINF:-1 tvg-name="B4U MOVIES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/b4u-movies.webp" group-title="EK TV",B4U MOVIES
+http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/b4u-kadak.webp" group-title="EK TV",B4U KADAK
+http://103.175.73.12:8080/live/44/44_0.m3u8
+#EXTINF:-1 tvg-name="UTSHAB" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sidharth-utsav.webp" group-title="EK TV",UTSHAB
+http://103.175.73.12:8080/live/45/45_0.m3u8
+#EXTINF:-1 tvg-name="MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg" group-title="EK TV",MANORANJAN MOVIES
+http://103.175.73.12:8080/live/47/47_0.m3u8
+#EXTINF:-1 tvg-name="MAHA MOVIE (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_maha_movie_channel.png/120px-Logo_maha_movie_channel.png?20141121053732" group-title="EK TV",MAHA MOVIE (M)
+http://103.175.73.12:8080/live/48/48_0.m3u8
+#EXTINF:-1 tvg-name="-CINEMA" group-title="EK TV",-CINEMA
+http://103.175.73.12:8080/live/49/49_0.m3u8
+#EXTINF:-1 tvg-name="GOLDMINES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/goldmines.webp" group-title="EK TV",GOLDMINES
+http://103.175.73.12:8080/live/46/46_0.m3u8
+#EXTINF:-1 tvg-name="GOLDMINES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/goldmines.webp" group-title="EK TV",GOLDMINES
+http://103.175.73.12:8080/live/53/53_0.m3u8
+#EXTINF:-1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/goldmines-movies.gif" group-title="EK TV",GOLDMINES MOVIES
+http://103.175.73.12:8080/live/51/51_0.m3u8
+#EXTINF:-1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/goldmines-bollywood.gif" group-title="EK TV",GOLDMINES BOLLYWOOD
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-name="ALL TIME MOVIES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/all-time-movies.webp" group-title="EK TV",ALL TIME MOVIES
+http://103.175.73.12:8080/live/54/54_0.m3u8
+#EXTINF:-1 tvg-name="MANORAMA NEWS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/manorama-news.webp" group-title="EK TV",MANORAMA NEWS
+http://103.175.73.12:8080/live/55/55_0.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies.webp" group-title="EK TV",STAR MOVIES
+http://103.175.73.12:8080/live/57/57_0.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies-hd.webp" group-title="EK TV",STAR MOVIES (HD)
+http://103.175.73.12:8080/live/56/56_0.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES SELECT (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies-select-hd.webp" group-title="EK TV",STAR MOVIES SELECT (HD)
+http://103.175.73.12:8080/live/60/60_0.m3u8
+#EXTINF:-1 tvg-name="SONY PIX" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-pix.webp" group-title="EK TV",SONY PIX
+http://103.175.73.12:8080/live/59/59_0.m3u8
+#EXTINF:-1 tvg-name="SONY PIX (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-pix-hd.webp" group-title="EK TV",SONY PIX (HD)
+http://103.175.73.12:8080/live/58/58_0.m3u8
+#EXTINF:-1 tvg-name="MOVIES NOW" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/movies-now.webp" group-title="EK TV",MOVIES NOW
+http://103.175.73.12:8080/live/61/61_0.m3u8
+#EXTINF:-1 tvg-name="MNX" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mnx.webp" group-title="EK TV",MNX
+http://103.175.73.12:8080/live/62/62_0.m3u8
+#EXTINF:-1 tvg-name="ROMEDY NOW" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/romedy-now.webp" group-title="EK TV",ROMEDY NOW
+http://103.175.73.12:8080/live/63/63_0.m3u8
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/dd-sports-hd.webp" group-title="EK TV",DD SPORTS
+http://103.175.73.12:8080/live/64/64_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1.webp" group-title="EK TV",STAR SPORTS 1
+http://103.175.73.12:8080/live/66/66_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hd.webp" group-title="EK TV",STAR SPORTS 1 (HD)
+http://103.175.73.12:8080/live/65/65_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.webp" group-title="EK TV",STAR SPORTS 2
+http://103.175.73.12:8080/live/68/68_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp" group-title="EK TV",STAR SPORTS 2 (HD)
+http://103.175.73.12:8080/live/67/67_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="EK TV",STAR SPORTS 3
+http://103.175.73.12:8080/live/69/69_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HINDI" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hindi.webp" group-title="EK TV",STAR SPORTS 1 HINDI
+http://103.175.73.12:8080/live/71/71_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORT 1 HINDI (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-1-hindi-hd.webp" group-title="EK TV",STAR SPORT 1 HINDI (HD)
+http://103.175.73.12:8080/live/70/70_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 1 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="EK TV",STAR SPORTS SELECT 1 (HD)
+http://103.175.73.12:8080/live/72/72_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="EK TV",STAR SPORTS SELECT 2 (HD)
+http://103.175.73.12:8080/live/73/73_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 1" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%201.png" group-title="EK TV",SONY SPORTS 1
+http://103.175.73.12:8080/live/75/75_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 1 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-sports-ten-1-hd.webp" group-title="EK TV",SONY SPORTS 1 (HD)
+http://103.175.73.12:8080/live/74/74_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%202.png" group-title="EK TV",SONY SPORTS 2
+http://103.175.73.12:8080/live/77/77_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 2 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-sports-ten-2-hd.webp" group-title="EK TV",SONY SPORTS 2 (HD)
+http://103.175.73.12:8080/live/76/76_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 3" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%203%20Hindi.png" group-title="EK TV",SONY SPORTS 3
+http://103.175.73.12:8080/live/79/79_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 3 (HD)" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%203%20Hindi%20HD.png" group-title="EK TV",SONY SPORTS 3 (HD)
+http://103.175.73.12:8080/live/78/78_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 5" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-sports-ten-5.webp" group-title="EK TV",SONY SPORTS 5
+http://103.175.73.12:8080/live/81/81_0.m3u8
+#EXTINF:-1 tvg-name="SONY SPORTS 5 (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-sports-ten-5-hd.webp" group-title="EK TV",SONY SPORTS 5 (HD)
+http://103.175.73.12:8080/live/80/80_0.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/eurosport.webp" group-title="EK TV",EUROSPORT
+http://103.175.73.12:8080/live/82/82_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2 HINDI (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="EK TV",STAR SPORTS 2 HINDI (HD)
+http://103.175.73.12:8080/live/83/83_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2 HINDI" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2.webp" group-title="EK TV",STAR SPORTS 2 HINDI
+http://103.175.73.12:8080/live/84/84_0.m3u8
+#EXTINF:-1 tvg-name="------ 85" group-title="EK TV",------ 85
+http://103.175.73.12:8080/live/85/85_0.m3u8
+#EXTINF:-1 tvg-name="AAJ TAK NEWS" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/aaj-tak.webp" group-title="EK TV",AAJ TAK NEWS
+http://103.175.73.12:8080/live/87/87_0.m3u8
+#EXTINF:-1 tvg-name="AAJ TAK NEWS (HD)" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/aaj-tak-hd.webp" group-title="EK TV",AAJ TAK NEWS (HD)
+http://103.175.73.12:8080/live/86/86_0.m3u8
+#EXTINF:-1 tvg-name="GNT" group-title="EK TV",GNT
+http://103.175.73.12:8080/live/89/89_0.m3u8
+#EXTINF:-1 tvg-name="ET NOW" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/et-now.webp" group-title="EK TV",ET NOW
+http://103.175.73.12:8080/live/90/90_0.m3u8
+#EXTINF:-1 tvg-name="K NEWS INDIA" group-title="EK TV",K NEWS INDIA
+http://103.175.73.12:8080/live/100/100_0.m3u8
+#EXTINF:-1 tvg-name="INH 24X7" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/inh-24x7.webp" group-title="EK TV",INH 24X7
+http://103.175.73.12:8080/live/99/99_0.m3u8
+#EXTINF:-1 tvg-name="IND 24" group-title="EK TV",IND 24
+http://103.175.73.12:8080/live/98/98_0.m3u8
+#EXTINF:-1 tvg-name="97-" group-title="EK TV",97-
+http://103.175.73.12:8080/live/97/97_0.m3u8
+#EXTINF:-1 tvg-name="96-" group-title="EK TV",96-
+http://103.175.73.12:8080/live/96/96_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 24" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/news-24.webp" group-title="EK TV",NEWS 24
+http://103.175.73.12:8080/live/95/95_0.m3u8
+#EXTINF:-1 tvg-name="INDIA VOICE" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/india-voice.webp" group-title="EK TV",INDIA VOICE
+http://103.175.73.12:8080/live/94/94_0.m3u8
+#EXTINF:-1 tvg-name="NEWS NATION" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/news-nation.webp" group-title="EK TV",NEWS NATION
+http://103.175.73.12:8080/live/93/93_0.m3u8
+#EXTINF:-1 tvg-name="TV 9 -" group-title="EK TV",TV 9 -
+http://103.175.73.12:8080/live/92/92_0.m3u8
+#EXTINF:-1 tvg-name="CNBC AWAAZ" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cnbc-awaaz.webp" group-title="EK TV",CNBC AWAAZ
+http://103.175.73.12:8080/live/91/91_0.m3u8
