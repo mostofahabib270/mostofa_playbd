@@ -397,9 +397,421 @@ http://103.175.73.12:8080/live/96/96_0.m3u8
 http://103.175.73.12:8080/live/95/95_0.m3u8
 #EXTINF:-1 tvg-name="INDIA VOICE" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/india-voice.webp" group-title="EK TV",INDIA VOICE
 http://103.175.73.12:8080/live/94/94_0.m3u8
-#EXTINF:-1 tvg-name="NEWS NATION" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/news-nation.webp" group-title="EK TV",NEWS NATION
-http://103.175.73.12:8080/live/93/93_0.m3u8
 #EXTINF:-1 tvg-name="TV 9 -" group-title="EK TV",TV 9 -
 http://103.175.73.12:8080/live/92/92_0.m3u8
 #EXTINF:-1 tvg-name="CNBC AWAAZ" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/cnbc-awaaz.webp" group-title="EK TV",CNBC AWAAZ
 http://103.175.73.12:8080/live/91/91_0.m3u8
+#EXTINF:-1 tvg-name="ANB-" group-title="EK TV",ANB-
+http://103.175.73.12:8080/live/101/101_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 1 INDIA" group-title="EK TV",NEWS 1 INDIA
+http://103.175.73.12:8080/live/102/102_0.m3u8
+#EXTINF:-1 tvg-name="JKL 24X7 NEWS" group-title="EK TV",JKL 24X7 NEWS
+http://103.175.73.12:8080/live/103/103_0.m3u8
+#EXTINF:-1 tvg-name="VISION OF NEW INDIA" group-title="EK TV",VISION OF NEW INDIA
+http://103.175.73.12:8080/live/104/104_0.m3u8
+#EXTINF:-1 tvg-name="Tv-" group-title="EK TV",Tv-
+http://103.175.73.12:8080/live/106/106_0.m3u8
+#EXTINF:-1 tvg-name="TIMES NOW" group-title="EK TV",TIMES NOW
+http://103.175.73.12:8080/live/108/108_0.m3u8
+#EXTINF:-1 tvg-name="MIRROR NOW" group-title="EK TV",MIRROR NOW
+http://103.175.73.12:8080/live/110/110_0.m3u8
+#EXTINF:-1 tvg-name="INDIA TODAY" group-title="EK TV",INDIA TODAY
+http://103.175.73.12:8080/live/111/111_0.m3u8
+#EXTINF:-1 tvg-name="CNN" group-title="EK TV",CNN
+http://103.175.73.12:8080/live/113/113_0.m3u8
+#EXTINF:-1 tvg-name="ET NOW" group-title="EK TV",ET NOW
+http://103.175.73.12:8080/live/114/114_0.m3u8
+#EXTINF:-1 tvg-name="R. REPUBLIC" group-title="EK TV",R. REPUBLIC
+http://103.175.73.12:8080/live/115/115_0.m3u8
+#EXTINF:-1 tvg-name="DW NEWS" group-title="EK TV",DW NEWS
+http://103.175.73.12:8080/live/116/116_0.m3u8
+#EXTINF:-1 tvg-name="DD NEWS" group-title="EK TV",DD NEWS
+http://103.175.73.12:8080/live/117/117_0.m3u8
+#EXTINF:-1 tvg-name="INDIA NEWS" group-title="EK TV",INDIA NEWS
+http://103.175.73.12:8080/live/119/119_0.m3u8
+#EXTINF:-1 tvg-name="NICK" group-title="EK TV",NICK
+http://103.175.73.12:8080/live/121/121_0.m3u8
+#EXTINF:-1 tvg-name="SONY YAY" group-title="EK TV",SONY YAY
+http://103.175.73.12:8080/live/122/122_0.m3u8
+#EXTINF:-1 tvg-name="-" group-title="EK TV",-
+http://103.175.73.12:8080/live/123/123_0.m3u8
+#EXTINF:-1 tvg-name="SONIC" group-title="EK TV",SONIC
+http://103.175.73.12:8080/live/124/124_0.m3u8
+#EXTINF:-1 tvg-name="NICK JR" group-title="EK TV",NICK JR
+http://103.175.73.12:8080/live/125/125_0.m3u8
+#EXTINF:-1 tvg-name="DISNEP CHANNEL (HD)" group-title="EK TV",DISNEP CHANNEL (HD)
+http://103.175.73.12:8080/live/126/126_0.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="EK TV",CARTOON NETWORK
+http://103.175.73.12:8080/live/127/127_0.m3u8
+#EXTINF:-1 tvg-name="SUPER HUNGAMA" group-title="EK TV",SUPER HUNGAMA
+http://103.175.73.12:8080/live/128/128_0.m3u8
+#EXTINF:-1 tvg-name="DISNEP JR" group-title="EK TV",DISNEP JR
+http://103.175.73.12:8080/live/129/129_0.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" group-title="EK TV",DISCOVERY KIDS
+http://103.175.73.12:8080/live/130/130_0.m3u8
+#EXTINF:-1 tvg-name="SONY BBC EARTH (HD)" group-title="EK TV",SONY BBC EARTH (HD)
+http://103.175.73.12:8080/live/131/131_0.m3u8
+#EXTINF:-1 tvg-name="ZEE TV" group-title="EK TV",ZEE TV
+http://103.175.73.12:8080/live/132/132_0.m3u8
+#EXTINF:-1 tvg-name="133" group-title="EK TV",133
+http://103.175.73.12:8080/live/133/133_0.m3u8
+#EXTINF:-1 tvg-name="WILD" group-title="EK TV",WILD
+http://103.175.73.12:8080/live/134/134_0.m3u8
+#EXTINF:-1 tvg-name="135" group-title="EK TV",135
+http://103.175.73.12:8080/live/135/135_0.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY" group-title="EK TV",DISCOVERY
+http://103.175.73.12:8080/live/136/136_0.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="EK TV",ANIMAL PLANET
+http://103.175.73.12:8080/live/137/137_0.m3u8
+#EXTINF:-1 tvg-name="138" group-title="EK TV",138
+http://103.175.73.12:8080/live/138/138_0.m3u8
+#EXTINF:-1 tvg-name="TLC" group-title="EK TV",TLC
+http://103.175.73.12:8080/live/139/139_0.m3u8
+#EXTINF:-1 tvg-name="ZEE - NEWS" group-title="EK TV",ZEE - NEWS
+http://103.175.73.12:8080/live/141/141_0.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="EK TV",DISCOVERY SCIENCE
+http://103.175.73.12:8080/live/142/142_0.m3u8
+#EXTINF:-1 tvg-name="FOOD" group-title="EK TV",FOOD
+http://103.175.73.12:8080/live/143/143_0.m3u8
+#EXTINF:-1 tvg-name="FASHION TV" group-title="EK TV",FASHION TV
+http://103.175.73.12:8080/live/144/144_0.m3u8
+#EXTINF:-1 tvg-name="INVESTIGATION (HD)" group-title="EK TV",INVESTIGATION (HD)
+http://103.175.73.12:8080/live/145/145_0.m3u8
+#EXTINF:-1 tvg-name="DD --" group-title="EK TV",DD --
+http://103.175.73.12:8080/live/148/148_0.m3u8
+#EXTINF:-1 tvg-name="149" group-title="EK TV",149
+http://103.175.73.12:8080/live/149/149_0.m3u8
+#EXTINF:-1 tvg-name="M TV" group-title="EK TV",M TV
+http://103.175.73.12:8080/live/150/150_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS --" group-title="EK TV",STAR SPORTS --
+http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 tvg-name="ZEE ---" group-title="EK TV",ZEE ---
+http://103.175.73.12:8080/live/152/152_0.m3u8
+#EXTINF:-1 tvg-name="ZOOM" group-title="EK TV",ZOOM
+http://103.175.73.12:8080/live/153/153_0.m3u8
+#EXTINF:-1 tvg-name="VOL -" group-title="EK TV",VOL -
+http://103.175.73.12:8080/live/154/154_0.m3u8
+#EXTINF:-1 tvg-name="QXM" group-title="EK TV",QXM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-name="MASTI" group-title="EK TV",MASTI
+http://103.175.73.12:8080/live/156/156_0.m3u8
+#EXTINF:-1 tvg-name="B4U MIUSIC" group-title="EK TV",B4U MIUSIC
+http://103.175.73.12:8080/live/157/157_0.m3u8
+#EXTINF:-1 tvg-name="MUSIC INDIA" group-title="EK TV",MUSIC INDIA
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-name="E 24 MIUSIC" group-title="EK TV",E 24 MIUSIC
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-name="INSYNC" group-title="EK TV",INSYNC
+http://103.175.73.12:8080/live/160/160_0.m3u8
+#EXTINF:-1 tvg-name="9X JALWA" group-title="EK TV",9X JALWA
+http://103.175.73.12:8080/live/161/161_0.m3u8
+#EXTINF:-1 tvg-name="SONY MAX 1 HD" group-title="EK TV",SONY MAX 1 HD
+http://103.175.73.12:8080/live/163/163_0.m3u8
+#EXTINF:-1 tvg-name="SONY MAX 1" group-title="EK TV",SONY MAX 1
+http://103.175.73.12:8080/live/164/164_0.m3u8
+#EXTINF:-1 tvg-name="SANKAR" group-title="EK TV",SANKAR
+http://103.175.73.12:8080/live/165/165_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/166/166_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/167/167_0.m3u8
+#EXTINF:-1 tvg-name="JINVANI" group-title="EK TV",JINVANI
+http://103.175.73.12:8080/live/169/169_0.m3u8
+#EXTINF:-1 tvg-name="PEACE OF MIND" group-title="EK TV",PEACE OF MIND
+http://103.175.73.12:8080/live/170/170_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/171/171_0.m3u8
+#EXTINF:-1 tvg-name="DD --" group-title="EK TV",DD --
+http://103.175.73.12:8080/live/172/172_0.m3u8
+#EXTINF:-1 tvg-name="CAPTAIN" group-title="EK TV",CAPTAIN
+http://103.175.73.12:8080/live/173/173_0.m3u8
+#EXTINF:-1 tvg-name="B4U --" group-title="EK TV",B4U --
+http://103.175.73.12:8080/live/174/174_0.m3u8
+#EXTINF:-1 tvg-name="PTC PUNJABI" group-title="EK TV",PTC PUNJABI
+http://103.175.73.12:8080/live/175/175_0.m3u8
+#EXTINF:-1 tvg-name="PTC PUNJABI COLD" group-title="EK TV",PTC PUNJABI COLD
+http://103.175.73.12:8080/live/176/176_0.m3u8
+#EXTINF:-1 tvg-name="DD --" group-title="EK TV",DD --
+http://103.175.73.12:8080/live/177/177_0.m3u8
+#EXTINF:-1 tvg-name="9X TASHAN" group-title="EK TV",9X TASHAN
+http://103.175.73.12:8080/live/178/178_0.m3u8
+#EXTINF:-1 tvg-name="TABBAR HITS" group-title="EK TV",TABBAR HITS
+http://103.175.73.12:8080/live/179/179_0.m3u8
+#EXTINF:-1 tvg-name="PTC CHAKDE" group-title="EK TV",PTC CHAKDE
+http://103.175.73.12:8080/live/180/180_0.m3u8
+#EXTINF:-1 tvg-name="PTC MUSIC" group-title="EK TV",PTC MUSIC
+http://103.175.73.12:8080/live/181/181_0.m3u8
+#EXTINF:-1 tvg-name="PTC NEWS" group-title="EK TV",PTC NEWS
+http://103.175.73.12:8080/live/182/182_0.m3u8
+#EXTINF:-1 tvg-name="PTC SPECIAL" group-title="EK TV",PTC SPECIAL
+http://103.175.73.12:8080/live/183/183_0.m3u8
+#EXTINF:-1 tvg-name="COLORS MA-- (HD)" group-title="EK TV",COLORS MA-- (HD)
+http://103.175.73.12:8080/live/184/184_0.m3u8
+#EXTINF:-1 tvg-name="COLORS MA--" group-title="EK TV",COLORS MA--
+http://103.175.73.12:8080/live/185/185_0.m3u8
+#EXTINF:-1 tvg-name="STAR M-  (HD)" group-title="EK TV",STAR M-  (HD)
+http://103.175.73.12:8080/live/186/186_0.m3u8
+#EXTINF:-1 tvg-name="DD -" group-title="EK TV",DD -
+http://103.175.73.12:8080/live/187/187_0.m3u8
+#EXTINF:-1 tvg-name="S----" group-title="EK TV",S----
+http://103.175.73.12:8080/live/188/188_0.m3u8
+#EXTINF:-1 tvg-name="SHEMAROO ----" group-title="EK TV",SHEMAROO ----
+http://103.175.73.12:8080/live/189/189_0.m3u8
+#EXTINF:-1 tvg-name="TV 9 --" group-title="EK TV",TV 9 --
+http://103.175.73.12:8080/live/190/190_0.m3u8
+#EXTINF:-1 tvg-name="COLORS --" group-title="EK TV",COLORS --
+http://103.175.73.12:8080/live/191/191_0.m3u8
+#EXTINF:-1 tvg-name="ABP---" group-title="EK TV",ABP---
+http://103.175.73.12:8080/live/192/192_0.m3u8
+#EXTINF:-1 tvg-name="193" group-title="EK TV",193
+http://103.175.73.12:8080/live/193/193_0.m3u8
+#EXTINF:-1 tvg-name="194" group-title="EK TV",194
+http://103.175.73.12:8080/live/194/194_0.m3u8
+#EXTINF:-1 tvg-name="STAR JALSHA" group-title="EK TV",STAR JALSHA
+http://103.175.73.12:8080/live/195/195_0.m3u8
+#EXTINF:-1 tvg-name="SONY AATH" group-title="EK TV",SONY AATH
+http://103.175.73.12:8080/live/196/196_0.m3u8
+#EXTINF:-1 tvg-name="DD BANGLA" group-title="EK TV",DD BANGLA
+http://103.175.73.12:8080/live/197/197_0.m3u8
+#EXTINF:-1 tvg-name="R PLUS GOLD BANGLA" group-title="EK TV",R PLUS GOLD BANGLA
+http://103.175.73.12:8080/live/198/198_0.m3u8
+#EXTINF:-1 tvg-name="ABP ANANDA BANGLA" group-title="EK TV",ABP ANANDA BANGLA
+http://103.175.73.12:8080/live/200/200_0.m3u8
+#EXTINF:-1 tvg-name="TV 9 BANGLA" group-title="EK TV",TV 9 BANGLA
+http://103.175.73.12:8080/live/201/201_0.m3u8
+#EXTINF:-1 tvg-name="RONGEON" group-title="EK TV",RONGEON
+http://103.175.73.12:8080/live/202/202_0.m3u8
+#EXTINF:-1 tvg-name="DD ARUNPRABHA" group-title="EK TV",DD ARUNPRABHA
+http://103.175.73.12:8080/live/203/203_0.m3u8
+#EXTINF:-1 tvg-name="DD MEGHALAYA" group-title="EK TV",DD MEGHALAYA
+http://103.175.73.12:8080/live/204/204_0.m3u8
+#EXTINF:-1 tvg-name="207" group-title="EK TV",207
+http://103.175.73.12:8080/live/207/207_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/208/208_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/212/212_0.m3u8
+#EXTINF:-1 tvg-name="STUDIO ONE" group-title="EK TV",STUDIO ONE
+http://103.175.73.12:8080/live/213/213_0.m3u8
+#EXTINF:-1 tvg-name="COLORS --- (HD)" group-title="EK TV",COLORS --- (HD)
+http://103.175.73.12:8080/live/220/220_0.m3u8
+#EXTINF:-1 tvg-name="V --" group-title="EK TV",V --
+http://103.175.73.12:8080/live/223/223_0.m3u8
+#EXTINF:-1 tvg-name="NEWS HOUR" group-title="EK TV",NEWS HOUR
+http://103.175.73.12:8080/live/225/225_0.m3u8
+#EXTINF:-1 tvg-name="VASANTH" group-title="EK TV",VASANTH
+http://103.175.73.12:8080/live/228/228_0.m3u8
+#EXTINF:-1 tvg-name="ONKAR BANGLA" group-title="EK TV",ONKAR BANGLA
+http://103.175.73.12:8080/live/232/232_0.m3u8
+#EXTINF:-1 tvg-name="--." group-title="EK TV",--.
+http://103.175.73.12:8080/live/235/235_0.m3u8
+#EXTINF:-1 tvg-name="-- LIFE" group-title="EK TV",-- LIFE
+http://103.175.73.12:8080/live/238/238_0.m3u8
+#EXTINF:-1 tvg-name="PUBLIC MOVIES" group-title="EK TV",PUBLIC MOVIES
+http://103.175.73.12:8080/live/239/239_0.m3u8
+#EXTINF:-1 tvg-name="PUBLIC MUSIC" group-title="EK TV",PUBLIC MUSIC
+http://103.175.73.12:8080/live/240/240_0.m3u8
+#EXTINF:-1 tvg-name="PUBLIC TV" group-title="EK TV",PUBLIC TV
+http://103.175.73.12:8080/live/241/241_0.m3u8
+#EXTINF:-1 tvg-name="242" group-title="EK TV",242
+http://103.175.73.12:8080/live/242/242_0.m3u8
+#EXTINF:-1 tvg-name="ZEE ---" group-title="EK TV",ZEE ---
+http://103.175.73.12:8080/live/243/243_0.m3u8
+#EXTINF:-1 tvg-name="ZEE BHARAT" group-title="EK TV",ZEE BHARAT
+http://103.175.73.12:8080/live/244/244_0.m3u8
+#EXTINF:-1 tvg-name="MANORAMA (HD)" group-title="EK TV",MANORAMA (HD)
+http://103.175.73.12:8080/live/245/245_0.m3u8
+#EXTINF:-1 tvg-name="ZEE BANGLA" group-title="EK TV",ZEE BANGLA
+http://103.175.73.12:8080/live/246/246_0.m3u8
+#EXTINF:-1 tvg-name="KAPPA TV" group-title="EK TV",KAPPA TV
+http://103.175.73.12:8080/live/247/247_0.m3u8
+#EXTINF:-1 tvg-name="DD KASHIR" group-title="EK TV",DD KASHIR
+http://103.175.73.12:8080/live/248/248_0.m3u8
+#EXTINF:-1 tvg-name="DD URDU" group-title="EK TV",DD URDU
+http://103.175.73.12:8080/live/249/249_0.m3u8
+#EXTINF:-1 tvg-name="250" group-title="EK TV",250
+http://103.175.73.12:8080/live/250/250_0.m3u8
+#EXTINF:-1 tvg-name="SONY INTERTENMENT TELEVISION" group-title="EK TV",SONY INTERTENMENT TELEVISION
+http://103.175.73.12:8080/live/251/251_0.m3u8
+#EXTINF:-1 tvg-name="252" group-title="EK TV",252
+http://103.175.73.12:8080/live/252/252_0.m3u8
+#EXTINF:-1 tvg-name="AND TV" group-title="EK TV",AND TV
+http://103.175.73.12:8080/live/253/253_0.m3u8
+#EXTINF:-1 tvg-name="254" group-title="EK TV",254
+http://103.175.73.12:8080/live/254/254_0.m3u8
+#EXTINF:-1 tvg-name="SONY BBC EARTH" group-title="EK TV",SONY BBC EARTH
+http://103.175.73.12:8080/live/255/255_0.m3u8
+#EXTINF:-1 tvg-name="-- tv" group-title="EK TV",-- tv
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-name="-- CINEMA 2" group-title="EK TV",-- CINEMA 2
+http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1 tvg-name="SHEMAROO --" group-title="EK TV",SHEMAROO --
+http://103.175.73.12:8080/live/258/258_0.m3u8
+#EXTINF:-1 tvg-name="D LIVE" group-title="EK TV",D LIVE
+http://103.175.73.12:8080/live/259/259_0.m3u8
+#EXTINF:-1 tvg-name="261" group-title="EK TV",261
+http://103.175.73.12:8080/live/261/261_0.m3u8
+#EXTINF:-1 tvg-name="ZEE CAFE" group-title="EK TV",ZEE CAFE
+http://103.175.73.12:8080/live/262/262_0.m3u8
+#EXTINF:-1 tvg-name="DD UTTAR PRADESH" group-title="EK TV",DD UTTAR PRADESH
+http://103.175.73.12:8080/live/263/263_0.m3u8
+#EXTINF:-1 tvg-name="264" group-title="EK TV",264
+http://103.175.73.12:8080/live/264/264_0.m3u8
+#EXTINF:-1 tvg-name="ZEE CINEMA" group-title="EK TV",ZEE CINEMA
+http://103.175.73.12:8080/live/265/265_0.m3u8
+#EXTINF:-1 tvg-name="AND PICTURES (HD)" group-title="EK TV",AND PICTURES (HD)
+http://103.175.73.12:8080/live/266/266_0.m3u8
+#EXTINF:-1 tvg-name="AND PICTURES" group-title="EK TV",AND PICTURES
+http://103.175.73.12:8080/live/267/267_0.m3u8
+#EXTINF:-1 tvg-name="268" group-title="EK TV",268
+http://103.175.73.12:8080/live/268/268_0.m3u8
+#EXTINF:-1 tvg-name="ZEE BOLLYWOOD" group-title="EK TV",ZEE BOLLYWOOD
+http://103.175.73.12:8080/live/269/269_0.m3u8
+#EXTINF:-1 tvg-name="ZEE ACTION" group-title="EK TV",ZEE ACTION
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-name="-- CINEMA" group-title="EK TV",-- CINEMA
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-name="ZEE CLASSIC" group-title="EK TV",ZEE CLASSIC
+http://103.175.73.12:8080/live/272/272_0.m3u8
+#EXTINF:-1 tvg-name="COLORS CINEPLEX" group-title="EK TV",COLORS CINEPLEX
+http://103.175.73.12:8080/live/273/273_0.m3u8
+#EXTINF:-1 tvg-name="SHEMAROO TV" group-title="EK TV",SHEMAROO TV
+http://103.175.73.12:8080/live/274/274_0.m3u8
+#EXTINF:-1 tvg-name="B FLIX MOVIES" group-title="EK TV",B FLIX MOVIES
+http://103.175.73.12:8080/live/276/276_0.m3u8
+#EXTINF:-1 tvg-name="277" group-title="EK TV",277
+http://103.175.73.12:8080/live/277/277_0.m3u8
+#EXTINF:-1 tvg-name="278" group-title="EK TV",278
+http://103.175.73.12:8080/live/278/278_0.m3u8
+#EXTINF:-1 tvg-name="AND FLIX" group-title="EK TV",AND FLIX
+http://103.175.73.12:8080/live/279/279_0.m3u8
+#EXTINF:-1 tvg-name="DD SPORTS" group-title="EK TV",DD SPORTS
+http://103.175.73.12:8080/live/280/280_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 1" group-title="EK TV",STAR SPORTS SELECT 1
+http://103.175.73.12:8080/live/281/281_0.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2" group-title="EK TV",STAR SPORTS SELECT 2
+http://103.175.73.12:8080/live/282/282_0.m3u8
+#EXTINF:-1 tvg-name="283" group-title="EK TV",283
+http://103.175.73.12:8080/live/283/283_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 18 HINDI" group-title="EK TV",NEWS 18 HINDI
+http://103.175.73.12:8080/live/284/284_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 18 --" group-title="EK TV",NEWS 18 --
+http://103.175.73.12:8080/live/285/285_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 18 --" group-title="EK TV",NEWS 18 --
+http://103.175.73.12:8080/live/286/286_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 18 --" group-title="EK TV",NEWS 18 --
+http://103.175.73.12:8080/live/287/287_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 18 --" group-title="EK TV",NEWS 18 --
+http://103.175.73.12:8080/live/288/288_0.m3u8
+#EXTINF:-1 tvg-name="ZEE NEWS" group-title="EK TV",ZEE NEWS
+http://103.175.73.12:8080/live/294/294_0.m3u8
+#EXTINF:-1 tvg-name="TIMES NOW --" group-title="EK TV",TIMES NOW --
+http://103.175.73.12:8080/live/295/295_0.m3u8
+#EXTINF:-1 tvg-name="R.  --" group-title="EK TV",R.  --
+http://103.175.73.12:8080/live/296/296_0.m3u8
+#EXTINF:-1 tvg-name="INDIA -" group-title="EK TV",INDIA -
+http://103.175.73.12:8080/live/297/297_0.m3u8
+#EXTINF:-1 tvg-name="SANSAD TV 2 (HD)" group-title="EK TV",SANSAD TV 2 (HD)
+http://103.175.73.12:8080/live/298/298_0.m3u8
+#EXTINF:-1 tvg-name="SUBHAVAARTHA TELEVISION" group-title="EK TV",SUBHAVAARTHA TELEVISION
+http://103.175.73.12:8080/live/301/301_0.m3u8
+#EXTINF:-1 tvg-name="NEWS STATE --" group-title="EK TV",NEWS STATE --
+http://103.175.73.12:8080/live/302/302_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 24 -" group-title="EK TV",NEWS 24 -
+http://103.175.73.12:8080/live/303/303_0.m3u8
+#EXTINF:-1 tvg-name="INDIA --" group-title="EK TV",INDIA --
+http://103.175.73.12:8080/live/304/304_0.m3u8
+#EXTINF:-1 tvg-name="NEWS STATE --" group-title="EK TV",NEWS STATE --
+http://103.175.73.12:8080/live/305/305_0.m3u8
+#EXTINF:-1 tvg-name="RAFTAAR MEDIA" group-title="EK TV",RAFTAAR MEDIA
+http://103.175.73.12:8080/live/306/306_0.m3u8
+#EXTINF:-1 tvg-name="NEWS 11 --" group-title="EK TV",NEWS 11 --
+http://103.175.73.12:8080/live/307/307_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/308/308_0.m3u8
+#EXTINF:-1 tvg-name="IBC 24" group-title="EK TV",IBC 24
+http://103.175.73.12:8080/live/309/309_0.m3u8
+#EXTINF:-1 tvg-name="TV 100" group-title="EK TV",TV 100
+http://103.175.73.12:8080/live/310/310_0.m3u8
+#EXTINF:-1 tvg-name="EXPRESS SMBC" group-title="EK TV",EXPRESS SMBC
+http://103.175.73.12:8080/live/311/311_0.m3u8
+#EXTINF:-1 tvg-name="PRATHAM NEWS" group-title="EK TV",PRATHAM NEWS
+http://103.175.73.12:8080/live/312/312_0.m3u8
+#EXTINF:-1 tvg-name="CNN NEWS 18" group-title="EK TV",CNN NEWS 18
+http://103.175.73.12:8080/live/313/313_0.m3u8
+#EXTINF:-1 tvg-name="CNBC TV 18 PRIME" group-title="EK TV",CNBC TV 18 PRIME
+http://103.175.73.12:8080/live/314/314_0.m3u8
+#EXTINF:-1 tvg-name="CNBC TV 18" group-title="EK TV",CNBC TV 18
+http://103.175.73.12:8080/live/315/315_0.m3u8
+#EXTINF:-1 tvg-name="NEWS DAILY 24 BANGLA" group-title="EK TV",NEWS DAILY 24 BANGLA
+http://103.175.73.12:8080/live/316/316_0.m3u8
+#EXTINF:-1 tvg-name="ALJAZEERA ENGLISH" group-title="EK TV",ALJAZEERA ENGLISH
+http://103.175.73.12:8080/live/318/318_0.m3u8
+#EXTINF:-1 tvg-name="BAL BHARAT" group-title="EK TV",BAL BHARAT
+http://103.175.73.12:8080/live/319/319_0.m3u8
+#EXTINF:-1 tvg-name="HUNGAMA" group-title="EK TV",HUNGAMA
+http://103.175.73.12:8080/live/320/320_0.m3u8
+#EXTINF:-1 tvg-name="DISNEP CHANNEL" group-title="EK TV",DISNEP CHANNEL
+http://103.175.73.12:8080/live/321/321_0.m3u8
+#EXTINF:-1 tvg-name="NICK (HD+)" group-title="EK TV",NICK (HD+)
+http://103.175.73.12:8080/live/322/322_0.m3u8
+#EXTINF:-1 tvg-name="POGO" group-title="EK TV",POGO
+http://103.175.73.12:8080/live/323/323_0.m3u8
+#EXTINF:-1 tvg-name="324" group-title="EK TV",324
+http://103.175.73.12:8080/live/324/324_0.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="EK TV",NATIONAL GEOGRAPHIC
+http://103.175.73.12:8080/live/325/325_0.m3u8
+#EXTINF:-1 tvg-name="326" group-title="EK TV",326
+http://103.175.73.12:8080/live/326/326_0.m3u8
+#EXTINF:-1 tvg-name="ZEE ZEST" group-title="EK TV",ZEE ZEST
+http://103.175.73.12:8080/live/327/327_0.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLAYNET" group-title="EK TV",ANIMAL PLAYNET
+http://103.175.73.12:8080/live/328/328_0.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" group-title="EK TV",DISCOVERY TURBO
+http://103.175.73.12:8080/live/330/330_0.m3u8
+#EXTINF:-1 tvg-name="LOTUS MACAU" group-title="EK TV",LOTUS MACAU
+http://103.175.73.12:8080/live/331/331_0.m3u8
+#EXTINF:-1 tvg-name="FASHION TV" group-title="EK TV",FASHION TV
+http://103.175.73.12:8080/live/332/332_0.m3u8
+#EXTINF:-1 tvg-name="HISTORY TV 18 (HD)" group-title="EK TV",HISTORY TV 18 (HD)
+http://103.175.73.12:8080/live/333/333_0.m3u8
+#EXTINF:-1 tvg-name="HISTORY TV 18" group-title="EK TV",HISTORY TV 18
+http://103.175.73.12:8080/live/334/334_0.m3u8
+#EXTINF:-1 tvg-name="DD +-" group-title="EK TV",DD +-
+http://103.175.73.12:8080/live/335/335_0.m3u8
+#EXTINF:-1 tvg-name="PRAG NEWS BANGLA" group-title="EK TV",PRAG NEWS BANGLA
+http://103.175.73.12:8080/live/336/336_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/338/338_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/339/339_0.m3u8
+#EXTINF:-1 tvg-name="-- GOLD" group-title="EK TV",-- GOLD
+http://103.175.73.12:8080/live/340/340_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/341/341_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/342/342_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/343/343_0.m3u8
+#EXTINF:-1 tvg-name="MH ONE" group-title="EK TV",MH ONE
+http://103.175.73.12:8080/live/344/344_0.m3u8
+#EXTINF:-1 tvg-name="MANORANJAN PRIME" group-title="EK TV",MANORANJAN PRIME
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/346/346_0.m3u8
+#EXTINF:-1 tvg-name="ZEE --" group-title="EK TV",ZEE --
+http://103.175.73.12:8080/live/347/347_0.m3u8
+#EXTINF:-1 tvg-name="OSCAR MOVIES" group-title="EK TV",OSCAR MOVIES
+http://103.175.73.12:8080/live/348/348_0.m3u8
+#EXTINF:-1 tvg-name="--" group-title="EK TV",--
+http://103.175.73.12:8080/live/349/349_0.m3u8
+#EXTINF:-1 tvg-name="ZEE" group-title="EK TV",ZEE
+http://103.175.73.12:8080/live/350/350_0.m3u8
+#EXTINF:-1 tvg-name="MH" group-title="EK TV",MH
+http://103.175.73.12:8080/live/351/351_0.m3u8
+#EXTINF:-1 tvg-name="PITAARA TATA" group-title="EK TV",PITAARA TATA
+http://103.175.73.12:8080/live/351/351_0.m3u8
+#EXTINF:-1 tvg-name="BALLE" group-title="EK TV",BALLE
+http://103.175.73.12:8080/live/354/354_0.m3u8
+#EXTINF:-1 tvg-name="Zee" group-title="EK TV",Zee
+http://103.175.73.12:8080/live/359/359_0.m3u8
