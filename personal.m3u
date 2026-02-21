@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://akashgo-mediaready.videoready.tv/akashgo/image/fetch/f_auto,fl_lossy,q_auto,w_180,h_180/https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561602643.png" group-title="CDN |BANGLADESH 🇧🇩",BTV
-http://103.229.254.25:7001/play/a064/index.m3u8
